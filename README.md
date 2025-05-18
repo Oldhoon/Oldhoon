@@ -10,6 +10,7 @@
 - 📫 How to reach me **kimyoh123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+- https://www.linkedin.com/in/younghoon/
 <p align="left">
 </p>
 
