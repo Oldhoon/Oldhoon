@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Springboot and C++**
 
-- 🤝 I’m looking for help with [EcoSort](https://github.com/ikaturan/EcoSort)
+- 🤝 I’m looking for help with [Mailbot](https://github.com/Oldhoon/Mailbot)
 
 - My website [https://oldhoon.github.io/portfolio/](https://oldhoon.github.io/portfolio/)
 
